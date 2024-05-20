@@ -1148,3 +1148,21 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
+
+/* swiper */
+.swipersection{
+   padding-bottom: 100px;
+}
+
+.swiperinnercontent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-top:#080808;
+  border-bottom: #080808;
+}
+.swiperinnercontent img{
+  display: inline-block;
+}
